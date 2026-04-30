@@ -64,15 +64,15 @@ I am a versatile developer with experience in a wide range of technologies. I sp
 - create interactive interfaces using Vue.js and jQuery;
 - set up DevOps processes and deploy applications on cloud platforms (AWS).
 
-**Let’s build something great together!** 🚀
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lexflame&hide=contribs,prs&show_icons=true&theme=github_dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lexflame&commits_year=2020&show_icons=true&theme=github_dark)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lexflame&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=github_dark)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lexflame&show_icons=true&show_icons=true&theme=github_dark)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lexflame&commits_year=2020&show_icons=true&theme=github_dark)
+🚀 **Let’s build something great together!** 🚀
+
+
 
 <!--
 **lexflame/lexflame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
