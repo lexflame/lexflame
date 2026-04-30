@@ -1,7 +1,6 @@
 ## Hi there 👋
 **Hey! I’m Lex!** 🖖
-
-I am a versatile developer with experience in a wide range of technologies. I specialize in backend and frontend development, system integration, and process optimization.
+I am a versatile developer with experience in a wide range of technologies. I specialize in backend development, system integration, and process optimization.
 
 #### 🛠  Skills ⚡
 - **Backend:** PHP, Laravel, 1C Bitrix, Bitrix24.
@@ -11,9 +10,7 @@ I am a versatile developer with experience in a wide range of technologies. I sp
 - **JavaScript frameworks and libraries:** JS, jQuery, Vue.js — I develop interactive elements and single-page applications.
 - **Administration and DevOps:** Linux, Git, Docker — I set up environments, automate deployment, and maintain infrastructure.
 
-#### 🛠  Tech Stack ⚡
-My arsenal of tools includes:
-
+#### 🛠  Tech Stack ⚡ My arsenal of tools includes:
 - **Programming languages and frameworks:** 
 
 ![php](https://badge.ttsalpha.com/api?icon=php&label=php&status=7&color=red&labelColor=black&iconColor=red)
