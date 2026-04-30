@@ -6,10 +6,10 @@ I am a versatile developer with experience in a wide range of technologies. I sp
 #### 🛠  Skills ⚡
 - **Backend:** PHP, Laravel, 1C Bitrix, Bitrix24.
 - **Development principles:** OOP, SOLID, KISS, DRY, MVC, CI/CD — I apply these in every project to create clean and scalable code.
-- **Databases:** MySQL, PostgreSQL, Redis, Memcached, RabbitMQ — I work with various DBMS to optimize data storage and processing.
-- **Frontend:** HTML/CSS, SASS, LESS, Bootstrap, TailwindCSS — I create responsive and stylish interfaces.
+- **Databases:** MySQL, PostgreSQL, Redis, Memcached — I work with various DBMS to optimize data storage and processing.
+- **Frontend:** HTML/CSS, SASS, LESS, Bootstrap — I create responsive and stylish interfaces.
 - **JavaScript frameworks and libraries:** JS, jQuery, Vue.js — I develop interactive elements and single-page applications.
-- **Administration and DevOps:** Linux, Git, Docker, Vagrant, S3 — I set up environments, automate deployment, and maintain infrastructure.
+- **Administration and DevOps:** Linux, Git, Docker — I set up environments, automate deployment, and maintain infrastructure.
 
 #### 🛠  Tech Stack ⚡
 My arsenal of tools includes:
