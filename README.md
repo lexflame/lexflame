@@ -20,6 +20,12 @@ My arsenal of tools includes:
 - **Server technologies:** Nginx, AWS;
 - **Additional technologies:** RabbitMQ, Bootstrap, TailwindCSS, SASS.
 
+import { Badge } from '@mantine/core';
+
+function Demo() {
+  return <Badge color="blue">Badge</Badge>;
+}
+
 #### 🌱 What I Can Do for You 🌱
 - develop and maintain web applications of any complexity;
 - integrate with 1C and Bitrix24 to automate business processes;
