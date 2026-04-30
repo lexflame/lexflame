@@ -1,5 +1,6 @@
 ## Hi there 👋
 **Hey! I’m Lex!** 🖖
+
 I am a versatile developer with experience in a wide range of technologies. I specialize in backend development, system integration, and process optimization.
 
 #### 🛠  Skills ⚡
