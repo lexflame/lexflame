@@ -6,7 +6,7 @@
 
 I am a versatile developer with experience in a wide range of technologies. I specialize in backend and frontend development, system integration, and process optimization.
 
-#### Skills ⚡
+#### 🛠  Skills ⚡
 - **Backend:** PHP, Laravel, 1C Bitrix, Bitrix24.
 - **Development principles:** OOP, SOLID, KISS, DRY, MVC, CI/CD — I apply these in every project to create clean and scalable code.
 - **Databases:** MySQL, PostgreSQL, Redis, Memcached, RabbitMQ — I work with various DBMS to optimize data storage and processing.
@@ -14,7 +14,7 @@ I am a versatile developer with experience in a wide range of technologies. I sp
 - **JavaScript frameworks and libraries:** JS, jQuery, Vue.js — I develop interactive elements and single-page applications.
 - **Administration and DevOps:** Linux, Git, Docker, Vagrant, S3 — I set up environments, automate deployment, and maintain infrastructure.
 
-#### Tech Stack ⚡
+#### 🛠  Tech Stack ⚡
 My arsenal of tools includes:
 - **Programming languages and frameworks:** PHP, Laravel, Vue.js, jQuery;
 - **Databases:** MySQL, PostgreSQL, Redis;
@@ -23,7 +23,7 @@ My arsenal of tools includes:
 - **Server technologies:** Nginx, AWS;
 - **Additional technologies:** RabbitMQ, Bootstrap, TailwindCSS, SASS.
 
-#### What I Can Do for You
+#### 🌱 What I Can Do for You 🌱
 - develop and maintain web applications of any complexity;
 - integrate with 1C and Bitrix24 to automate business processes;
 - optimize databases and caching to improve performance;
