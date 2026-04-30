@@ -6,11 +6,15 @@ I am a versatile developer with experience in a wide range of technologies. I sp
 - **Backend:**
   
 ![Laravel](https://badge.ttsalpha.com/api?icon=Laravel&label=Laravel&color=red&labelColor=black&iconColor=red) ![CodeIgniter](https://badge.ttsalpha.com/api?icon=codeigniter&label=CodeIgniter&status=3-4&color=red&labelColor=black&iconColor=red) ![1C-Bitrix](https://badge.ttsalpha.com/api?icon=php&label=1C-Bitrix&color=red&labelColor=red&iconColor=white) ![BitrixX](https://badge.ttsalpha.com/api?icon=php&label=BitrixX&status=24&color=blue&labelColor=red&iconColor=white) 
-- **Development principles:** OOP, SOLID, KISS, DRY, MVC, CI/CD — I apply these in every project to create clean and scalable code.
-- **Databases:** MySQL, PostgreSQL, Redis, Memcached — I work with various DBMS to optimize data storage and processing.
-- **Frontend:** HTML/CSS, SASS, LESS, Bootstrap — I create responsive and stylish interfaces.
-- **JavaScript frameworks and libraries:** JS, jQuery, Vue.js — I develop interactive elements and single-page applications.
-- **Administration and DevOps:** Linux, Git, Docker — I set up environments, automate deployment, and maintain infrastructure.
+
+- **Development principles: — I apply these in every project to create clean and scalable code.**
+
+![OOP](https://badge.ttsalpha.com/api?label=OOP&status=senior&color=red&labelColor=black&iconColor=white) ![SOLID](https://badge.ttsalpha.com/api?icon=SOLID&label=SOLID&status=senior&color=red&labelColor=black&iconColor=white) ![KISS](https://badge.ttsalpha.com/api?icon=SOLID&label=KISS&status=senior&color=red&labelColor=black&iconColor=white) ![DRY](https://badge.ttsalpha.com/api?icon=SOLID&label=DRY&status=senior&color=red&labelColor=black&iconColor=white) ![MVC](https://badge.ttsalpha.com/api?icon=SOLID&label=MVC&status=senior&color=red&labelColor=black&iconColor=white) ![CI/CD](https://badge.ttsalpha.com/api?icon=SOLID&label=CI/CD&status=senior&color=red&labelColor=black&iconColor=white)
+  
+- **Databases:** I work with various DBMS to optimize data storage and processing.
+- **Frontend:** I create responsive and stylish interfaces.
+- **JavaScript frameworks and libraries:** I develop interactive elements and single-page applications.
+- **Administration and DevOps:** I set up environments, automate deployment, and maintain infrastructure.
 
 #### 🛠  Tech Stack ⚡ My arsenal of tools includes:
 - **Programming languages and frameworks:**
@@ -20,17 +24,38 @@ I am a versatile developer with experience in a wide range of technologies. I sp
 ![jquery](https://badge.ttsalpha.com/api?icon=jquery&label=jquery&color=red&labelColor=black&iconColor=red)
 ![css](https://badge.ttsalpha.com/api?icon=css&label=css&color=red&labelColor=white&iconColor=red)
 
+- **Databases:**
+  
+![MySQL](https://badge.ttsalpha.com/api?icon=MySQL&label=MySQL&status=middle&color=blue&labelColor=black&iconColor=white)
+![PostgreSQL](https://badge.ttsalpha.com/api?icon=PostgreSQL&label=PostgreSQL&status=middle&color=blue&labelColor=black&iconColor=white)
+![Redis](https://badge.ttsalpha.com/api?icon=Redis&label=Redis&status=middle&color=blue&labelColor=black&iconColor=white)
 
+- **Version control and hosting systems:**
 
+![Git](https://badge.ttsalpha.com/api?icon=Git&label=Git&status=middle&color=blue&labelColor=black&iconColor=white)
+![GitHub](https://badge.ttsalpha.com/api?icon=GitHub&label=GitHub&status=senoir&color=blue&labelColor=black&iconColor=white)
+![BitBucket](https://badge.ttsalpha.com/api?icon=BitBucket&label=BitBucket&status=middle&color=blue&labelColor=black&iconColor=white)
 
+- **Development tools:**
 
-- **Databases:** MySQL, PostgreSQL, Redis;
-- **Version control and hosting systems:** Git, GitHub, BitBucket;
-- **Development tools: :wrench: PHPStorm, Visual Studio Code;
-- **Server technologies:** Nginx, AWS;
-- **Additional technologies:** RabbitMQ, Bootstrap, TailwindCSS, SASS.
+![PHPStorm](https://badge.ttsalpha.com/api?icon=PHPStorm&label=PHPStorm&status=senior&color=red&labelColor=black&iconColor=white)
+![VSCode](https://badge.ttsalpha.com/api?label=VSCode&status=middle&color=blue&labelColor=black&iconColor=white)
+![SublimeText](https://badge.ttsalpha.com/api?icon=SublimeText&label=SublimeText&status=senior&color=red&labelColor=black&iconColor=white)
 
-/gitlab/stars/fdroid/fdroidclient
+- **Server technologies:**
+
+![Nginx](https://badge.ttsalpha.com/api?icon=Nginx&label=Nginx&status=senior&color=red&labelColor=black&iconColor=white)
+![AWS](https://badge.ttsalpha.com/api?label=AWS&status=middle&color=blue&labelColor=black&iconColor=white)
+![Apache](https://badge.ttsalpha.com/api?icon=Apache&label=Apache&status=senior&color=red&labelColor=black&iconColor=white)
+
+- **Additional technologies:**
+
+![RabbitMQ](https://badge.ttsalpha.com/api?icon=RabbitMQ&label=RabbitMQ&status=middle&color=blue&labelColor=black&iconColor=white)
+![Bootstrap](https://badge.ttsalpha.com/api?icon=Bootstrap&label=Bootstrap&status=middle&color=blue&labelColor=black&iconColor=white)
+![TailwindCSS](https://badge.ttsalpha.com/api?icon=TailwindCSS&label=TailwindCSS&status=middle&color=blue&labelColor=black&iconColor=white)
+![SASS](https://badge.ttsalpha.com/api?icon=SASS&label=SASS&status=middle&color=blue&labelColor=black&iconColor=white)
+![Memcached](https://badge.ttsalpha.com/api?label=Memcached&status=senior&color=red&labelColor=black&iconColor=white)
+![Docker](https://badge.ttsalpha.com/api?icon=Docker&label=Docker&status=middle&color=blue&labelColor=black&iconColor=white)
 
 #### 🌱 What I Can Do for You 🌱
 - develop and maintain web applications of any complexity;
