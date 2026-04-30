@@ -45,6 +45,8 @@ I am a versatile developer with experience in a wide range of technologies. I sp
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lexflame&repo=mindnavigator_v2&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lexflame&stats_format=bytes&theme=github_dark)
+
 🚀 **Let’s build something great together!** 🚀
 
 
