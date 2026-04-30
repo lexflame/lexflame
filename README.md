@@ -13,7 +13,20 @@ I am a versatile developer with experience in a wide range of technologies. I sp
 
 #### 🛠  Tech Stack ⚡
 My arsenal of tools includes:
-- **Programming languages and frameworks:** PHP, Laravel, Vue.js, jQuery;
+
+- **Programming languages and frameworks:** 
+
+![php](https://badge.ttsalpha.com/api?icon=php&label=php&status=7&color=red&labelColor=black&iconColor=red)
+![python](https://badge.ttsalpha.com/api?icon=python&label=python&color=red&labelColor=black&iconColor=red)
+![jquery](https://badge.ttsalpha.com/api?icon=jquery&label=jquery&color=red&labelColor=black&iconColor=red)
+![css](https://badge.ttsalpha.com/api?icon=css&label=css&color=red&labelColor=white&iconColor=red)
+
+![Laravel](https://badge.ttsalpha.com/api?icon=Laravel&label=Laravel&color=red&labelColor=black&iconColor=red)
+![CodeIgniter](https://badge.ttsalpha.com/api?icon=codeigniter&label=CodeIgniter&status=3-4&color=red&labelColor=black&iconColor=red)
+![Bitrix](https://badge.ttsalpha.com/api?icon=php&label=Bitrix&status=20&color=red&labelColor=black&iconColor=red)
+
+
+
 - **Databases:** MySQL, PostgreSQL, Redis;
 - **Version control and hosting systems:** Git, GitHub, BitBucket;
 - **Development tools: :wrench: PHPStorm, Visual Studio Code;
