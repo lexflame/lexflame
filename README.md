@@ -12,25 +12,15 @@ I am a versatile developer with experience in a wide range of technologies. I sp
 - **Programming languages and frameworks:** ![php](https://badge.ttsalpha.com/api?icon=php&label=php&status=7&color=red&labelColor=black&iconColor=red)
 ![python](https://badge.ttsalpha.com/api?icon=python&label=python&color=red&labelColor=black&iconColor=red)
 ![jquery](https://badge.ttsalpha.com/api?icon=jquery&label=jquery&color=red&labelColor=black&iconColor=red)
-![css](https://badge.ttsalpha.com/api?icon=css&label=css&color=red&labelColor=white&iconColor=red)
-
-- **Databases:** ![MySQL](https://badge.ttsalpha.com/api?icon=MySQL&label=MySQL&status=middle&color=blue&labelColor=black&iconColor=white)
+![css](https://badge.ttsalpha.com/api?icon=css&label=css&color=red&labelColor=white&iconColor=red) ![MySQL](https://badge.ttsalpha.com/api?icon=MySQL&label=MySQL&status=middle&color=blue&labelColor=black&iconColor=white)
 ![PostgreSQL](https://badge.ttsalpha.com/api?icon=PostgreSQL&label=PostgreSQL&status=middle&color=blue&labelColor=black&iconColor=white)
-![Redis](https://badge.ttsalpha.com/api?icon=Redis&label=Redis&status=middle&color=blue&labelColor=black&iconColor=white)
-
-- **Version control and hosting systems:** ![Git](https://badge.ttsalpha.com/api?icon=Git&label=Git&status=middle&color=blue&labelColor=black&iconColor=white)
+![Redis](https://badge.ttsalpha.com/api?icon=Redis&label=Redis&status=middle&color=blue&labelColor=black&iconColor=white) ![Git](https://badge.ttsalpha.com/api?icon=Git&label=Git&status=middle&color=blue&labelColor=black&iconColor=white)
 ![GitHub](https://badge.ttsalpha.com/api?icon=GitHub&label=GitHub&status=senoir&color=blue&labelColor=black&iconColor=white)
-![BitBucket](https://badge.ttsalpha.com/api?icon=BitBucket&label=BitBucket&status=middle&color=blue&labelColor=black&iconColor=white)
-
-- **Development tools:** ![PHPStorm](https://badge.ttsalpha.com/api?icon=PHPStorm&label=PHPStorm&status=senior&color=red&labelColor=black&iconColor=white)
+![BitBucket](https://badge.ttsalpha.com/api?icon=BitBucket&label=BitBucket&status=middle&color=blue&labelColor=black&iconColor=white) ![PHPStorm](https://badge.ttsalpha.com/api?icon=PHPStorm&label=PHPStorm&status=senior&color=red&labelColor=black&iconColor=white)
 ![VSCode](https://badge.ttsalpha.com/api?label=VSCode&status=middle&color=blue&labelColor=black&iconColor=white)
-![SublimeText](https://badge.ttsalpha.com/api?icon=SublimeText&label=SublimeText&status=senior&color=red&labelColor=black&iconColor=white)
-
-- **Server technologies:** ![Nginx](https://badge.ttsalpha.com/api?icon=Nginx&label=Nginx&status=senior&color=red&labelColor=black&iconColor=white)
+![SublimeText](https://badge.ttsalpha.com/api?icon=SublimeText&label=SublimeText&status=senior&color=red&labelColor=black&iconColor=white) ![Nginx](https://badge.ttsalpha.com/api?icon=Nginx&label=Nginx&status=senior&color=red&labelColor=black&iconColor=white)
 ![AWS](https://badge.ttsalpha.com/api?label=AWS&status=middle&color=blue&labelColor=black&iconColor=white)
-![Apache](https://badge.ttsalpha.com/api?icon=Apache&label=Apache&status=senior&color=red&labelColor=black&iconColor=white)
-
-- **Additional technologies:** ![RabbitMQ](https://badge.ttsalpha.com/api?icon=RabbitMQ&label=RabbitMQ&status=middle&color=blue&labelColor=black&iconColor=white)
+![Apache](https://badge.ttsalpha.com/api?icon=Apache&label=Apache&status=senior&color=red&labelColor=black&iconColor=white) ![RabbitMQ](https://badge.ttsalpha.com/api?icon=RabbitMQ&label=RabbitMQ&status=middle&color=blue&labelColor=black&iconColor=white)
 ![Bootstrap](https://badge.ttsalpha.com/api?icon=Bootstrap&label=Bootstrap&status=middle&color=blue&labelColor=black&iconColor=white)
 ![TailwindCSS](https://badge.ttsalpha.com/api?icon=TailwindCSS&label=TailwindCSS&status=middle&color=blue&labelColor=black&iconColor=white)
 ![SASS](https://badge.ttsalpha.com/api?icon=SASS&label=SASS&status=middle&color=blue&labelColor=black&iconColor=white)
