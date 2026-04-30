@@ -43,6 +43,7 @@ I am a versatile developer with experience in a wide range of technologies. I sp
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lexflame&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=github_dark)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 🚀 **Let’s build something great together!** 🚀
 
