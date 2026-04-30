@@ -3,7 +3,7 @@
 I am a versatile developer with experience in a wide range of technologies. I specialize in backend development, system integration, and process optimization.
 
 #### 🛠  Skills ⚡
-- **Backend:** PHP, Laravel, 1C Bitrix, Bitrix24.
+- **Backend:** ![Laravel](https://badge.ttsalpha.com/api?icon=Laravel&label=Laravel&color=red&labelColor=black&iconColor=red) ![CodeIgniter](https://badge.ttsalpha.com/api?icon=codeigniter&label=CodeIgniter&status=3-4&color=red&labelColor=black&iconColor=red) ![Bitrix](https://badge.ttsalpha.com/api?icon=php&label=Bitrix&status=20&color=red&labelColor=black&iconColor=red)
 - **Development principles:** OOP, SOLID, KISS, DRY, MVC, CI/CD — I apply these in every project to create clean and scalable code.
 - **Databases:** MySQL, PostgreSQL, Redis, Memcached — I work with various DBMS to optimize data storage and processing.
 - **Frontend:** HTML/CSS, SASS, LESS, Bootstrap — I create responsive and stylish interfaces.
@@ -18,9 +18,7 @@ I am a versatile developer with experience in a wide range of technologies. I sp
 ![jquery](https://badge.ttsalpha.com/api?icon=jquery&label=jquery&color=red&labelColor=black&iconColor=red)
 ![css](https://badge.ttsalpha.com/api?icon=css&label=css&color=red&labelColor=white&iconColor=red)
 
-![Laravel](https://badge.ttsalpha.com/api?icon=Laravel&label=Laravel&color=red&labelColor=black&iconColor=red)
-![CodeIgniter](https://badge.ttsalpha.com/api?icon=codeigniter&label=CodeIgniter&status=3-4&color=red&labelColor=black&iconColor=red)
-![Bitrix](https://badge.ttsalpha.com/api?icon=php&label=Bitrix&status=20&color=red&labelColor=black&iconColor=red)
+
 
 
 
