@@ -3,7 +3,8 @@
 I am a versatile developer with experience in a wide range of technologies. I specialize in backend development, system integration, and process optimization.
 
 #### 🛠  Skills ⚡
-- **Backend:** ![Laravel](https://badge.ttsalpha.com/api?icon=Laravel&label=Laravel&color=red&labelColor=black&iconColor=red) ![CodeIgniter](https://badge.ttsalpha.com/api?icon=codeigniter&label=CodeIgniter&status=3-4&color=red&labelColor=black&iconColor=red) ![1C-Bitrix](https://badge.ttsalpha.com/api?icon=php&label=1C-Bitrix&color=red&labelColor=red&iconColor=white) ![BitrixX](https://badge.ttsalpha.com/api?icon=php&label=BitrixX&status=24&color=blue&labelColor=red&iconColor=white) 
+- **Backend:**
+- ![Laravel](https://badge.ttsalpha.com/api?icon=Laravel&label=Laravel&color=red&labelColor=black&iconColor=red) ![CodeIgniter](https://badge.ttsalpha.com/api?icon=codeigniter&label=CodeIgniter&status=3-4&color=red&labelColor=black&iconColor=red) ![1C-Bitrix](https://badge.ttsalpha.com/api?icon=php&label=1C-Bitrix&color=red&labelColor=red&iconColor=white) ![BitrixX](https://badge.ttsalpha.com/api?icon=php&label=BitrixX&status=24&color=blue&labelColor=red&iconColor=white) 
 - **Development principles:** OOP, SOLID, KISS, DRY, MVC, CI/CD — I apply these in every project to create clean and scalable code.
 - **Databases:** MySQL, PostgreSQL, Redis, Memcached — I work with various DBMS to optimize data storage and processing.
 - **Frontend:** HTML/CSS, SASS, LESS, Bootstrap — I create responsive and stylish interfaces.
@@ -11,7 +12,8 @@ I am a versatile developer with experience in a wide range of technologies. I sp
 - **Administration and DevOps:** Linux, Git, Docker — I set up environments, automate deployment, and maintain infrastructure.
 
 #### 🛠  Tech Stack ⚡ My arsenal of tools includes:
-- **Programming languages and frameworks:** ![php](https://badge.ttsalpha.com/api?icon=php&label=php&status=7&color=red&labelColor=black&iconColor=red)
+- **Programming languages and frameworks:**
+- ![php](https://badge.ttsalpha.com/api?icon=php&label=php&status=7&color=red&labelColor=black&iconColor=red)
 ![python](https://badge.ttsalpha.com/api?icon=python&label=python&color=red&labelColor=black&iconColor=red)
 ![jquery](https://badge.ttsalpha.com/api?icon=jquery&label=jquery&color=red&labelColor=black&iconColor=red)
 ![css](https://badge.ttsalpha.com/api?icon=css&label=css&color=red&labelColor=white&iconColor=red)
