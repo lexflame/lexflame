@@ -9,7 +9,8 @@ I am a versatile developer with experience in a wide range of technologies. I sp
   
 
 #### 🛠  Tech Stack ⚡ My arsenal of tools includes:
-- **Programming languages and frameworks:** ![php](https://badge.ttsalpha.com/api?icon=php&label=php&status=7&color=red&labelColor=black&iconColor=red)
+
+![php](https://badge.ttsalpha.com/api?icon=php&label=php&status=7&color=red&labelColor=black&iconColor=red)
 ![python](https://badge.ttsalpha.com/api?icon=python&label=python&color=red&labelColor=black&iconColor=red)
 ![jquery](https://badge.ttsalpha.com/api?icon=jquery&label=jquery&color=red&labelColor=black&iconColor=red)
 ![css](https://badge.ttsalpha.com/api?icon=css&label=css&color=red&labelColor=white&iconColor=red) ![MySQL](https://badge.ttsalpha.com/api?icon=MySQL&label=MySQL&status=middle&color=blue&labelColor=black&iconColor=white)
