@@ -11,9 +11,7 @@ I am a versatile developer with experience in a wide range of technologies. I sp
 - **Administration and DevOps:** Linux, Git, Docker — I set up environments, automate deployment, and maintain infrastructure.
 
 #### 🛠  Tech Stack ⚡ My arsenal of tools includes:
-- **Programming languages and frameworks:** 
-
-![php](https://badge.ttsalpha.com/api?icon=php&label=php&status=7&color=red&labelColor=black&iconColor=red)
+- **Programming languages and frameworks:** ![php](https://badge.ttsalpha.com/api?icon=php&label=php&status=7&color=red&labelColor=black&iconColor=red)
 ![python](https://badge.ttsalpha.com/api?icon=python&label=python&color=red&labelColor=black&iconColor=red)
 ![jquery](https://badge.ttsalpha.com/api?icon=jquery&label=jquery&color=red&labelColor=black&iconColor=red)
 ![css](https://badge.ttsalpha.com/api?icon=css&label=css&color=red&labelColor=white&iconColor=red)
