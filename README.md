@@ -16,7 +16,7 @@ My arsenal of tools includes:
 - **Programming languages and frameworks:** PHP, Laravel, Vue.js, jQuery;
 - **Databases:** MySQL, PostgreSQL, Redis;
 - **Version control and hosting systems:** Git, GitHub, BitBucket;
-- **Development tools:** PHPStorm, Visual Studio Code;
+- **Development tools::wrench: PHPStorm, Visual Studio Code;
 - **Server technologies:** Nginx, AWS;
 - **Additional technologies:** RabbitMQ, Bootstrap, TailwindCSS, SASS.
 
