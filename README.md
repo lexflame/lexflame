@@ -38,13 +38,13 @@ I am a versatile developer with experience in a wide range of technologies. I sp
 - create interactive interfaces using Vue.js and jQuery;
 - set up DevOps processes and deploy applications on cloud platforms (AWS).
 
-
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lexflame&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=github_dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lexflame&stats_format=bytes&theme=github_dark)
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lexflame&repo=mindnavigator_v2&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
+-->
 
 🚀 **Let’s build something great together!** 🚀
 
