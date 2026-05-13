@@ -34,10 +34,12 @@ I am a versatile developer with experience in a wide range of technologies. I sp
 
 
 #### 📊 Interactive Code Quality
-[![CodeQL](https://github.com/lexflame/lexflame/actions/workflows/codeql.yml/badge.svg)](https://github.com/lexflame/lexflame/actions/workflows/codeql.yml)
-[![Lint](https://github.com/lexflame/lexflame/actions/workflows/lint.yml/badge.svg)](https://github.com/lexflame/lexflame/actions/workflows/lint.yml)
-[![Tests](https://github.com/lexflame/lexflame/actions/workflows/tests.yml/badge.svg)](https://github.com/lexflame/lexflame/actions/workflows/tests.yml)
+[![Profile Views](https://komarev.com/ghpvc/?username=lexflame&label=Profile+views&color=0e75b6&style=flat)](https://github.com/lexflame)
+[![GitHub followers](https://img.shields.io/github/followers/lexflame?label=Followers&style=flat)](https://github.com/lexflame?tab=followers)
+[![GitHub User's stars](https://img.shields.io/github/stars/lexflame?affiliations=OWNER%2CCOLLABORATOR&style=flat&label=Total%20Stars)](https://github.com/lexflame?tab=repositories)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lexflame&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lexflame&layout=compact&theme=github_dark)
 ![Profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lexflame&theme=github_dark)
 
 #### 🌱 What I Can Do for You 🌱
