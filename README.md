@@ -31,6 +31,15 @@ I am a versatile developer with experience in a wide range of technologies. I sp
 ![Memcached](https://badge.ttsalpha.com/api?label=Memcached&status=senior&color=red&labelColor=black&iconColor=white)
 ![Docker](https://badge.ttsalpha.com/api?icon=Docker&label=Docker&status=middle&color=blue&labelColor=black&iconColor=white)
 
+
+
+#### 📊 Interactive Code Quality
+[![CodeQL](https://github.com/lexflame/lexflame/actions/workflows/codeql.yml/badge.svg)](https://github.com/lexflame/lexflame/actions/workflows/codeql.yml)
+[![Lint](https://github.com/lexflame/lexflame/actions/workflows/lint.yml/badge.svg)](https://github.com/lexflame/lexflame/actions/workflows/lint.yml)
+[![Tests](https://github.com/lexflame/lexflame/actions/workflows/tests.yml/badge.svg)](https://github.com/lexflame/lexflame/actions/workflows/tests.yml)
+
+![Profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lexflame&theme=github_dark)
+
 #### 🌱 What I Can Do for You 🌱
 - develop and maintain web applications of any complexity;
 - integrate with 1C and Bitrix24 to automate business processes;
