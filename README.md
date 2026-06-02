@@ -38,9 +38,7 @@ I am a versatile developer with experience in a wide range of technologies. I sp
 [![GitHub followers](https://img.shields.io/github/followers/lexflame?label=Followers&style=flat)](https://github.com/lexflame?tab=followers)
 [![GitHub User's stars](https://img.shields.io/github/stars/lexflame?affiliations=OWNER%2CCOLLABORATOR&style=flat&label=Total%20Stars)](https://github.com/lexflame?tab=repositories)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lexflame&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lexflame&layout=compact&theme=github_dark)
-![Profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lexflame&theme=github_dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lexflame&show_icons=true&theme=radical)
 
 #### 🌱 What I Can Do for You 🌱
 - develop and maintain web applications of any complexity;
