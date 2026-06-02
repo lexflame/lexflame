@@ -38,6 +38,7 @@ I am a versatile developer with experience in a wide range of technologies. I sp
 [![GitHub followers](https://img.shields.io/github/followers/lexflame?label=Followers&style=flat)](https://github.com/lexflame?tab=followers)
 [![GitHub User's stars](https://img.shields.io/github/stars/lexflame?affiliations=OWNER%2CCOLLABORATOR&style=flat&label=Total%20Stars)](https://github.com/lexflame?tab=repositories)
 
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
 ![Lexflame GitHub stats](https://github-readme-stats.vercel.app/api?username=lexflame&show_icons=true&theme=radical)
 
 #### 🌱 What I Can Do for You 🌱
