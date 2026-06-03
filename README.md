@@ -4,7 +4,7 @@
 I am a versatile developer with experience in a wide range of technologies. I specialize in backend development, system integration, and process optimization.
 
 #### 🛠  Skills ⚡
-- **Backend:** ![Laravel](https://badge.ttsalpha.com/api?icon=Laravel&label=Laravel&color=red&labelColor=black&iconColor=red) ![CodeIgniter](https://badge.ttsalpha.com/api?icon=codeigniter&label=CodeIgniter&status=3-4&color=red&labelColor=black&iconColor=red) ![1C-Bitrix](https://badge.ttsalpha.com/api?icon=php&label=1C-Bitrix&color=red&labelColor=red&iconColor=white) ![BitriX](https://badge.ttsalpha.com/api?icon=php&label=BitrixX&status=24&color=blue&labelColor=red&iconColor=white) 
+- **Backend:** ![Laravel](https://badge.ttsalpha.com/api?icon=Laravel&label=Laravel&color=red&labelColor=black&iconColor=red) ![CodeIgniter](https://badge.ttsalpha.com/api?icon=codeigniter&label=CodeIgniter&status=3-4&color=red&labelColor=black&iconColor=red) ![1C-Bitrix](https://badge.ttsalpha.com/api?icon=php&label=1C-Bitrix&color=red&labelColor=red&iconColor=white) ![BitriX](https://badge.ttsalpha.com/api?icon=php&label=BitriX&status=24&color=blue&labelColor=red&iconColor=white) 
 
 - **Development principles: — I apply these in every project to create clean and scalable code.**
   
